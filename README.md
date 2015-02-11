@@ -5,7 +5,8 @@
 1. [The simplest calculator in the world](http://jsbin.com/hijaba/6/edit?js,output)
 2. [Add and subtract](http://jsbin.com/dacudo/4/edit?js,output)
 3. [A serious calculator](http://jsbin.com/mifon/4/edit?js,output)
-4. [Your own calculator](http://jsbin.com/cenafa/2/edit?js,output)
+
 
 ## Bonus Challenge: Pretty calculator
 
+[Your own calculator](http://jsbin.com/cenafa/2/edit?js,output)
