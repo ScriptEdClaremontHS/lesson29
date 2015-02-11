@@ -9,4 +9,4 @@
 
 ## Bonus Challenge: Your own calculator
 
-[Your own calculator](http://jsbin.com/cenafa/2/edit?js,output)
+4. [Your own calculator](http://jsbin.com/cenafa/2/edit?js,output)
