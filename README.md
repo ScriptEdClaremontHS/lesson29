@@ -7,6 +7,6 @@
 3. [A serious calculator](http://jsbin.com/mifon/4/edit?js,output)
 
 
-## Bonus Challenge: Pretty calculator
+## Bonus Challenge: Your own calculator
 
 [Your own calculator](http://jsbin.com/cenafa/2/edit?js,output)
